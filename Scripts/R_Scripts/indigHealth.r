@@ -1,4 +1,4 @@
-setwd("C:/Users/Mark/Documents/GitHub/GovHack2014/Data/Indigenous Health Check")
+setwd("C:/Users/Mark/Documents/GitHub/GovHack14/Data/Indigenous/Health Check")
 
 Quarter <- read.csv("mbs715-quarter-data.csv")
 View(Quarter)
